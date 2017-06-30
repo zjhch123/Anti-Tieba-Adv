@@ -31,8 +31,11 @@
     }
   });
   hideAdv('.tbui_slideshow_container');
-  hideAdv('.aside_region.celebrity');
-  hideAdv('.aside_region.app_download_box');
+  hideAdv('.aside .celebrity');
+  hideAdv('.aside .app_download_box');
   hideAdv('.topic_list_box');
   hideAdv('.gift-goin');
+  hideAdv(".thread_recommend");
+  hideAdv('.right_bright .celebrity');
+  hideAdv('.right_bright .app_download_box');
 })()
