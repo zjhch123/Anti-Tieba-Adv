@@ -22,4 +22,5 @@
   hideAdv('.tbui_slideshow_container');
   hideAdv('.aside_region.celebrity');
   hideAdv('.aside_region.app_download_box');
+  hideAdv('.topic_list_box');
 })()
