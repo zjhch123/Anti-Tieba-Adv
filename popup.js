@@ -30,12 +30,13 @@
       return false;
     }
   });
-  hideAdv('.tbui_slideshow_container');
   hideAdv('.aside .celebrity');
   hideAdv('.aside .app_download_box');
   hideAdv('.topic_list_box');
+  hideAdv('.forum_recommend');
   hideAdv('.gift-goin');
   hideAdv(".thread_recommend");
+  hideAdv('.tbui_slideshow_container');
   hideAdv('.right_bright .celebrity');
   hideAdv('.right_bright .app_download_box');
 })()
