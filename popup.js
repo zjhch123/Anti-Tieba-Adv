@@ -24,4 +24,6 @@
   hideAdv('.aside_region.app_download_box');
   hideAdv('#pagelet_frs-aside\\/pagelet\\/aside .topic_list_box');
   hideAdv('.content_leftList #pagelet_live\\/pagelet\\/live');
+  hideAdv('.content_leftList #pagelet_frs-list\\/pagelet\\/thread_footer');
+  hideAdv('.right_section .celebrity');
 })()
