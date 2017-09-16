@@ -3,7 +3,7 @@
   "version": "0.2",
   "manifest_version": 2,  
   "description": "清除百度贴吧内的广告",  
-  "permissions": [ "contentSettings", "tabs" ],
+  "permissions": [ "contentSettings", "tabs", "declarativeContent"],
   "content_scripts": [
     {
       "matches": ["*://tieba.baidu.com/*"],
